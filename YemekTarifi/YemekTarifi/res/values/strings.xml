@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YemekTarifi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hazirlanisiBaslik">Hazirlanisi</string>
+    <string name="malzemelerBaslik">Malzemeler</string>
+    <string name="secenek">secenekler</string>
+    <string name="malzemeler">* 2 su bardağı ince bulgur
+* 1 demet taze soğan
+* 1/2 demet maydanoz
+* 1/2 demet dereotu
+* 2 tatlı kaşığı kuru nane
+* 2 çorba kaşığı domates salçası
+* 2 çorba kaşığı biber salça
+* 1 tatlı kaşığı tuz
+* 1 çay kaşığı karabiber
+* 1 çay kaşığı kırmızıbiber
+* 1 çay kaşığı pulbiber
+* 1/2 çay bardağı zeytinyağı
+* 1 limonun suyu</string>
+    <string name="hazirlanisi">Hazırlanışı
+1 – Bulguru ayıklayıp,3 kere yıkayın.
+2 – Bulguru bir tencereye koyun.Üzerine bulgurun hizasından biraz az olacak şekilde sıcak su koyun.Tencerenin kapağını kapatıp,bulgurun suyu çekmesi için bekletin.
+3 – Bulgur soğuduktan sonra ince kıyılmış taze soğan,maydanoz,dereotu,nane,domates,biber salçası,tuz,karabiber,kırmızıbiber,pulbiber, zeytinyağı ve limon suyunu ekleyip karıştırın.</string>
+    <string name="action_settings">Settings</string>
+    <string name="kisirTarifi">KısırTarifi</string>
+
+</resources>
