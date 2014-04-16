@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SampleSoundFontStyle</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">A mı diyim B mi?</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+</resources>
