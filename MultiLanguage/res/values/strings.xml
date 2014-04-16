@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActivityManagement</string>
+   <string name="text_baslik">Kayıt Formu</string>
+   <string name="text_ad">Adınız</string>
+    <string name="text_soyad">Soyadınız</string>
+    <string name="text_yas">Yaşınız</string>
+    <string name="text_cinsiyet">Cinsiyetiniz</string>
+    <string name="text_erkek">Erkek</string>
+    <string name="text_kadin">Kadın</string>
+    <string name="text_ileti">İletiniz</string>
+    <string name="text_gonder">Gönder</string>
+    <string name="text_temizle">Temizle</string>
+    <string name="text_geri">Geri</string>
+    <string name="text_hata">Bir hata oluştu.\n\nGirdiğiniz verileri kontrol ediniz!\n\nBoş alan bırakmayınız!</string>
+    <string name="text_bay">Bay</string>
+    <string name="text_bayan">Bayan</string>
+    <string name="text_diyor">diyor ki:\n\n</string>
+    
+
+</resources>

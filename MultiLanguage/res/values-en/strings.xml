@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActivityManagement</string>
+   <string name="text_baslik">Register Form</string>
+   <string name="text_ad">Name</string>
+    <string name="text_soyad">Surname</string>
+    <string name="text_yas">Age</string>
+    <string name="text_cinsiyet">Sex</string>
+    <string name="text_erkek">Male</string>
+    <string name="text_kadin">Female</string>
+    <string name="text_ileti">Comment</string>
+    <string name="text_gonder">Send</string>
+    <string name="text_temizle">Clear</string>
+    <string name="text_geri">Back</string>
+    <string name="text_hata">An error has occurred\n\nPlease check your input values\n\nYou must fill in the blanks</string>
+    <string name="text_bay">Mr</string>
+    <string name="text_bayan">Mrs</string>
+    <string name="text_diyor">Says:\n\n</string>
+    
+
+</resources>
