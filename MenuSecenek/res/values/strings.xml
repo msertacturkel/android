@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SecenekMenusuActivity!</string>
+    <string name="app_name">SecenekMenusu</string>
+    <string name="benkimim">Ben Kimim?</string>
+    <string name="hakkimda">Hakkımda</string>
+    <string name="baslik">Bu Ünlü Kim?</string>
+    <string name="unlu1">Adnan Oktar</string>
+    <string name="hakkinda1">Kedi severim.Eğer munis ve kedi canlıysan seni de severim.
+        					Derdimi anlatacak kadar İngilizce biliyorum(Very Big Cat).Bir televizyon
+        					programında şovum var.Şovu, kedilerimle birlikte sunuyorum.Sahne adım Harun Yahya.
+        					Sevenim çok maşallah,inşallah.</string>
+    <string name="bilgi">İpucu: Menü tuşuna basınız.</string>
+
+</resources>
