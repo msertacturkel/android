@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SharedP</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="sifirla">Sifirla</string>
+    <string name="secim">Sifirla</string>
+    <string name="text_kaydedildi">Metin Kaydedildi.</string>
+    <string name="text_sifirlandi">Metin Sifirlandi.</string>
+
+</resources>
