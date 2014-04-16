@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <!-- Seçiliyken -->
+    <item android:drawable="@drawable/ic6"
+          android:state_selected="true" />
+    
+    <!-- Seçili değilken-->
+    <item android:drawable="@drawable/ic5" />
+    
+</selector>

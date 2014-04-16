@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SekmeOgreniyorum</string>
+    <string name="sekme_bir">Burası sekme 1</string>
+    <string name="sekme_iki">Burası sekme 2</string>
+    <string name="sekme_uc">Burası sekme 3</string>
+
+</resources>
