@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EglenceliSesler</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="dramatiksincap">Dramatik Sincap</string>
+    <string name="seytanikahkaha">Seytani Kahkaha</string>
+    <string name="bateri">Zafer Bateri</string>
+    <string name="kalpatisi">Kalp Atışı</string>
+    <string name="trololol">Trololol</string>
+    <string name="kedicanini">Kedi Canını</string>
+    <string name="haha">Ha-ha</string>
+    <string name="alkis">Alkış</string>
+    <string name="dedeler">Dedeler</string>
+    <string name="durdur">DURDUR</string>
+    <string name="oynat">OYNAT</string>
+    <string name="baslik">Androidce Eğlenceli Sesler</string>
+
+</resources>
